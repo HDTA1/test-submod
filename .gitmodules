@@ -5,5 +5,5 @@
 
 [submodule "abdullah-abid-dev/submod-2"]
 	path = abdullah-abid-dev/submod-2
-	url = git@github.com:abdullah-abid-dev/submod-2.git
+	url = https://github.com/abdullah-abid-dev/submod-2.git
 	branch = main
