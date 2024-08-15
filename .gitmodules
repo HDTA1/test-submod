@@ -1,0 +1,4 @@
+[submodule "HDLearning/test_module"]
+	path = HDLearning/test_module
+	url = git@github.com:HDLearning/test_module.git
+	branch = main
